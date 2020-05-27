@@ -10,7 +10,7 @@
 - Moskva (Москва : la ville de Moscou et/ou la rivière Moscova) : Marque apparue sur quelques montres de poche "type-1" des années '30, puis reprises pour des montres-bracelets emboîtant des 2603 (type Pobeda) dans les années '50 et jusqu'au tout début des années '60.
 - Okean (Океан : Océan) : Chronographes produits dans les années '70 et '80
 - Orbita (Орбита : Orbite) : Montres automatiques produites dans les années '70.
-- [Poljot](docs/poljot.md) (Полет : Vol, sous-entendu vol cosmique): Cette marque à l'origine peu employée (un seul modèle au catalogue 1960) est devenue la principale marque de l'usine après 1964, très nombreux modèles.
+- [Poljot](poljot.md) (Полет : Vol, sous-entendu vol cosmique): Cette marque à l'origine peu employée (un seul modèle au catalogue 1960) est devenue la principale marque de l'usine après 1964, très nombreux modèles.
 - Pobeda (Победа : Victoire) : Modèle de montres emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Poljus (Полюс : Pôle) : Montres automatiques de type Rodina (voir ci-dessous), marque rare de la fin des années '50 et du début des années '60.
 - Rodina (Родина : Patrie) : Première montre automatique, mouvement 2415, largement produite dans les années '50 et '60.
@@ -47,7 +47,7 @@
 - Pobeda (Победа : Victoire) : Modèle de montre emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Tchistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Soura (Сура: La Soura est la rivière qui traverse la ville de Penza) : Montres-bracelets emboîtant des mouvements 2009 au déut des années '60
 - Vesna (Весна : Printemps) : Montres-bracelets emboîtant des 2609 dans les années '50 et '60.
-- **Zaria** (Заря : Aube, mais aussi le nom de la déesse slave du printemps) : Principale marque de l'usine après 1964.
+- [Zaria](zaria.md) (Заря : Aube, mais aussi le nom de la déesse slave du printemps) : Principale marque de l'usine après 1964.
 - ZIF (ЗИФ : Initiales du premier nom de l'usine de Penza : Fabrique de Bicyclettes Frounzé) : Montres-bracelet (calibre 1802) des années '30 et '40 qui prendra le nom de Zvezda (voir ci-dessous).
 - Zvezda (Звезда : Étoile) : Petites montres-bracelets de type tonneau (calibre 1802), massivement produites à Penza des années '40 aux années '60, et à Ouglich dans les années '50 et '60.
 
@@ -67,7 +67,7 @@
 - Petrodvoretz (Петродворец : La localité de Petrodvorets où se trouve le palais de Peterhof et la Fabrique de montres) : Montres-bracelets des années '60.
 - Pobeda (Победа : Victoire) : Modèle de montre emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Polarnie (Полярные : Polaire) : Montres 24 heures produites à la fin de l'URSS, dont le cadran a un thème polaire. Les faux pullulent (plus ou moins proches de l'original).
-- **Raketa** (Ракета : Fusée) : Principale marque de l'usine après 1964, très nombreux modèles.
+- [Raketa](raketa.md) (Ракета : Fusée) : Principale marque de l'usine après 1964, très nombreux modèles.
 - Record (Рекорд): Montre-bracelet des années '60
 - Rossia (Россия : Russie) : Montres-bracelets emboîtant des 2609 dans les années '50.
 - Start (Старт: Début, départ) : montres-bracelets type Pobeda des années '50, aussi et surtout fabriquée à la 2e Fabrique de Montres de Moscou.
@@ -80,7 +80,7 @@
 - Pobeda (Победа : Victoire) : Modèle de montre emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Tchaïka (Чайка) : Un modèle de cette marque a été fabriqué par ZIM (la marque a ensuite réservée à la Fabrique de Montres Tchaïka, à Ouglich)
 - Yantar (Янтарь : Ambre) : Montres-bracelets de type Pobeda, produites par la Fabrique de Tchistopol à la fin des années '50. La marque aurait été utilisée par ZIM pour des montres de même type.
-- **ZIM** (ЗИМ : initiales de la fabrique) : Principale marque de la fabrique, montres de poche et montres-bracelets généralement de type Pobeda.
+- [ZIM)[zim.md] (ЗИМ : initiales de la fabrique) : Principale marque de la fabrique, montres de poche et montres-bracelets généralement de type Pobeda.
 
 ### Fabrique de Montres de Tchistopol
 
@@ -106,7 +106,7 @@
 - Oural (Урал : comme les Monts et le fleuve) : Montres-bracelets emboîtant des 3608 dans les années '50.
 - Ouran (Уран : pour Uranium) : Montres-bracelets emboîtant de type Pobeda des années '50 et '60.
 - Volna (Волна : Vague – le substantif!) : Montres-bracelets de précision (mécanisme 2809) des années '50 et '60.
-- **Vostok** (Восток : Est, Orient ou Levant, mais surtout le nom du vaisseau cosmique de Youri Gagarine) : Principale marque de l'usine après 1964, très nombreux modèles.
+- (Vostok)(vostok.md) (Восток : Est, Orient ou Levant, mais surtout le nom du vaisseau cosmique de Youri Gagarine) : Principale marque de l'usine après 1964, très nombreux modèles.
 - Yantar (Янтарь : Ambre) : Montres-bracelets de type Pobeda, fin des années '50. La marque aurait été utilisée par ZIM pour des montres de même type.
 
 ### Fabrique de Montres de Zlatousk
@@ -119,7 +119,7 @@
 
 ### Fabrique de Montres Tchaïka, à Ouglich
 
-- **Tchaïka** (Чайка : Mouette, nom de code radio de la première femme dans l'espace, Valentina Terechkova) : Principale marque de l'usine après 1964, très nombreux modèles. Cette marque avait été brièvement utilisée par la fabrique ZIM d'Ouglich dans les années '60 pour des montres de type Pobeda et Zvezda, et par celle de Tchistopol embarquant le calibre 2605.
+- [Tchaïka](tchaïka.md) (Чайка : Mouette, nom de code radio de la première femme dans l'espace, Valentina Terechkova) : Principale marque de l'usine après 1964, très nombreux modèles. Cette marque avait été brièvement utilisée par la fabrique ZIM d'Ouglich dans les années '60 pour des montres de type Pobeda et Zvezda, et par celle de Tchistopol embarquant le calibre 2605.
 - Volga (Волга : le fleuve) : Montres-bracelets plaquées or pour femme dans les années '60.
 - Zvezda (Звезда : Étoile) : Petites montres-bracelet de type tonneau (calibre 1802), massivement produites à Penza des années '40 aux années '60 et à Ouglich dans les années '50 et '60.
 
@@ -127,12 +127,12 @@
 
 - Cristal (Кристал : Cristal) : Montres de poche de type Molnija embarquant un 3602 à 18 rubis
 - Iskra (Искра : étincelle) : Montre de poche de type Molnia embarquant un 3602 à 17 rubis
-- **Molnija** (Молния : Éclair) :  : Principale marque de l'usine après 1964, essentiellement des montres de poche 3602.
+- (Molnija](molnija.md) (Молния : Éclair) :  : Principale marque de l'usine après 1964, essentiellement des montres de poche 3602.
 
 ### Fabrique de Montres de Minsk
 
 - Elektronika 5 ou Elektronika (Электроника) sans mention du chiffre : A partir de la fin années 70 pour les montres à quartz à affichage LCD
-- **Luch** (Луч : Rayon) : Principale marque de l'usine, très nombreux modèles.
+- [Luch](lush.md) (Луч : Rayon) : Principale marque de l'usine, très nombreux modèles.
 
 ### Fabrique de Montres d'Erevan
 
