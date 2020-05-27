@@ -6,4 +6,4 @@ Date:    27 mai 2020
 
 # Montres Russes
 
-Bienvenue sur mon site de montres russes
+Les informations consignées et organisées sur ce site proviennent largement du forum français de montres russes https://www.montres-russes.org/
