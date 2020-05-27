@@ -1,1 +1,6 @@
 site_name: My Docs
+
+nav:
+    - Home: 'index.md'
+    - Classement par fabriques: 'classement.md'
+    - About: 'about.md'
