@@ -10,7 +10,7 @@
 - Moskva (Москва : la ville de Moscou et/ou la rivière Moscova) : Marque apparue sur quelques montres de poche "type-1" des années '30, puis reprises pour des montres-bracelets emboîtant des 2603 (type Pobeda) dans les années '50 et jusqu'au tout début des années '60.
 - Okean (Океан : Océan) : Chronographes produits dans les années '70 et '80
 - Orbita (Орбита : Orbite) : Montres automatiques produites dans les années '70.
-- **Poljot** (Полет : Vol, sous-entendu vol cosmique): Cette marque à l'origine peu employée (un seul modèle au catalogue 1960) est devenue la principale marque de l'usine après 1964, très nombreux modèles.
+- [Poljot](docs/poljot.md) (Полет : Vol, sous-entendu vol cosmique): Cette marque à l'origine peu employée (un seul modèle au catalogue 1960) est devenue la principale marque de l'usine après 1964, très nombreux modèles.
 - Pobeda (Победа : Victoire) : Modèle de montres emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Poljus (Полюс : Pôle) : Montres automatiques de type Rodina (voir ci-dessous), marque rare de la fin des années '50 et du début des années '60.
 - Rodina (Родина : Patrie) : Première montre automatique, mouvement 2415, largement produite dans les années '50 et '60.
