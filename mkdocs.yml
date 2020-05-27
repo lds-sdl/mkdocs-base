@@ -1,6 +1,11 @@
-site_name: My Docs
-
 nav:
     - Home: 'index.md'
-    - Classement par fabriques: 'classement.md'
-    - About: 'about.md'
+    - 'Les montres par marques':
+        - 'Pobeda': 'pobeda.md'
+        - 'Poljot': 'poljot.md'
+        - 'Raketa': 'raketa.md'
+        - 'Slava': 'slava.md'
+    - Les Fabriques: 'fabriques.md'
+    - About:
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
