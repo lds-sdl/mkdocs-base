@@ -7,6 +7,8 @@ Date:    27 mai 2020
 
 ## Catalogue de 1953
 
+### Men wrist watch in chromium plated case.
+
 stainless steel case back, 15 rubies steel level movement. Monometal balance with special alloy hair spring. one complete winding last not less than 34 hour (for watch 34-K not less than 32h)
 
 | modèle        | description           | image  |
@@ -19,3 +21,12 @@ stainless steel case back, 15 rubies steel level movement. Monometal balance wit
 | 114-K       | Case diameter 29,6. Silvered dial with print markers. Golden hour scale numerals, gilt hands.|![114-K](images/pobeda/114-K.png "114-K") |
 | 119-K       | Case diameter 29,6. Dial dead silvered with 4 polished sectors. Black hour scale numerals. Blue hands.|![119-K](images/pobeda/119-K.png "119-K") |
 
+
+### Mens-s wrist watch with second sweep centre second hand
+
+Round chromium plated case with stainless stell back. 15-rubies stell lower movement. Monometal balance with special alloy hair spring. One complete winding last not less than 32 hours. Sweep centre second hands. Unbreakable organic glass. Case diameter 33mm.
+
+| modèle        | description           | image  |
+| ------------- |-------------| -----:|
+| 38-K       | Raised gilt hour numerals on silver dial. All other markers black. Gilt hands. |![38-K](images/pobeda/38-K.png "38-K") |
+| 36-K       | Black numerals and markers on silvered dial. Blued hands. Red sweep centre second hands. |![36-K](images/pobeda/36-K.png "36-K") |
