@@ -1,6 +1,6 @@
 site_name: Montres russes
 theme:
-    name: readthedocs
+    name: mkdocs
     nav_style: dark
     hljs_languages:
         - yaml
