@@ -1,9 +1,11 @@
-Title:   Pobeda
-Summary: liste des montres Pobeda
+Title:   Pobeda Победа
+Summary: liste des montres Pobeda Победа
 Authors: lds
 Date:    27 mai 2020
 
-# Catalogue de 1953
+# Pobeda/Победа
+
+## Catalogue de 1953
 
 stainless steel case back, 15 rubies steel level movement. Monometal balance with special alloy hair spring. one complete winding last not less than 34 hour (for watch 34-K not less than 32h)
 
