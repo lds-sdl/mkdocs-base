@@ -30,3 +30,11 @@ Round chromium plated case with stainless stell back. 15-rubies stell lower move
 | ------------- |-------------| -----:|
 | 38-K       | Raised gilt hour numerals on silver dial. All other markers black. Gilt hands. |![38-K](images/pobeda/38-K.png "38-K") |
 | 36-K       | Black numerals and markers on silvered dial. Blued hands. Red sweep centre second hands. |![36-K](images/pobeda/36-K.png "36-K") |
+
+## Men wrist watch, luminous hands and numerals
+
+Case diameter 32mm. Round chromium plate case with stainless steel back. 15 rubies steel level movement. Monometal balance with special alloy hair spring. One complete winding last not less than 34 hours. 
+
+| modèle        | description           | image  |
+| ------------- |-------------| -----:|
+| 44-K       | Black inscriptions and markers on silverd dial. Blue hands. Luminous numerals and hands. |![44-K](images/pobeda/44-K.png "44-K") |
