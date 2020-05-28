@@ -12,4 +12,4 @@ stainless steel case back, 15 rubies steel level movement. Monometal balance wit
 | 34-K       | Balancier à l'épreuve des chocs, dans un boîtier étanche à la poussière. Diamètre du boîtier 30,6 mm. Le fond du boîtier en acier inoxydable est sculpté. Chiffres des heures doré, cadran argenté  |![34-K](images/pobeda/34-K.png "34-K") |
 | 52-K       | Diamètre du boîtier 26,9 mm. marqueurs et chiffres noirs. Aiguilles bleues. |![34-K](images/pobeda/52-K.png "52-K") |
 | 103-K       | Diamètre du boitier 32mm, chiffres de l'échelle des heures dorés bordés de noir. aiguilles dorées.
- |![34-K](images/pobeda/103-K.png "103-K") |
+ |![103-K](images/pobeda/103-K.png "103-K") |
