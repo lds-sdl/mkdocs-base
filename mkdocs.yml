@@ -1,6 +1,6 @@
 site_name: Montres russes
 theme:
-    name: gitbook
+    name: alabaster
     nav_style: dark
     hljs_languages:
         - yaml
