@@ -11,7 +11,7 @@
 - Okean (Океан : Océan) : Chronographes produits dans les années '70 et '80
 - Orbita (Орбита : Orbite) : Montres automatiques produites dans les années '70.
 - [Poljot](poljot.md) (Полет : Vol, sous-entendu vol cosmique): Cette marque à l'origine peu employée (un seul modèle au catalogue 1960) est devenue la principale marque de l'usine après 1964, très nombreux modèles.
-- Pobeda (Победа : Victoire) : Modèle de montres emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
+- [Pobeda](docs/pobeda.md) (Победа : Victoire) : Modèle de montres emboîtant le K26 (ou ses dérivés : 2602, 2603 etc.) et produit par la la Fabrique de Penza quelques années à partir de 1945, par la 1ère Fabrique de montres de Moscou de 1946 à 1953, par la Fabrique de montres de Petrodvorets de 1946 jusque dans les années '60, par la Fabrique de Chistopol et 1949-50, par la 2e Fabrique de montres de Moscou de 1953 à 1964, et par la fabrique de Montres Maslenikov (ZIM) de 1951 à... 2004.
 - Poljus (Полюс : Pôle) : Montres automatiques de type Rodina (voir ci-dessous), marque rare de la fin des années '50 et du début des années '60.
 - Rodina (Родина : Patrie) : Première montre automatique, mouvement 2415, largement produite dans les années '50 et '60.
 - Severnii poljius (Северный полюс: Pôle nord), montres 24H identiques aux Antarctica (cf. ci-dessus)
