@@ -8,7 +8,7 @@ Date:    27 mai 2020
 stainless steel case back, 15 rubies steel level movement. Monometal balance with special alloy hair spring. one complete winding last not less than 34 hour (for watch 34-K not less than 32h)
 
 | modèle        | description           | image  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----:|
 | 34-K       | montre avec balance à l'épreuve des chocs, dans un boîtier étanche à la poussière. Diamètre du boîtier 30,6 mm. Le fond du boîtier en acier inoxydable est sculpté. Chiffres des heures doré, cadran argenté  |![34-K](images/pobeda/34-K.png "34-K") |
 
 
